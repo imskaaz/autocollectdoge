@@ -29,8 +29,8 @@ Install Termux apps on your Android using Google Play Store
 
 ```
 https://play.google.com/store/apps/details?id=com.termux
-
 ```
+
 ```
 Run your Termux
 ```
@@ -62,7 +62,7 @@ Finish
 ``
 Join the telegram bot : 
 ```
-
+--------------
 ```
 Open your Termux app
 ```
