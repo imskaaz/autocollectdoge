@@ -60,10 +60,10 @@ Finish
 Open your Termux app
 ```
 ```
-Write apt update && upgrade
+$ pkg update && pkg upgrade
 ```
 ```
-Write apt install python
+$ pkg install python git unzip
 ```
 
 ### Break down into end to end tests
