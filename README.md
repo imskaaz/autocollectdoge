@@ -59,7 +59,7 @@ Finish
 
 ## Install the script
 
-``
+```
 Join the telegram bot : 
 ```
 --------------
