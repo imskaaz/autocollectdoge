@@ -65,6 +65,9 @@ $ pkg update && pkg upgrade
 ```
 $ pkg install python git unzip
 ```
+```
+$ git clone https://github.com/imskaaz/autocollectdoge
+```
 
 ### Break down into end to end tests
 
