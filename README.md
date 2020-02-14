@@ -158,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * [Google Ads](https://brezehost.com) - Feel free to donating without any cost by click a ads on my website
 * DogeCoin : DMp7YAqjBQTV24cVop2NNwsgwR1fHjN9V6
 * BitCoin : 1NfSksGzyEq2bi1hrsKNcxxSPtJp6H6LNR
-* LiteCoin :
-* Ethereum :
-* BulkHead Token :
+* LiteCoin : LPhASFoE1YvAhxhDeE12fJQaFDEzbaKsUp
+* Ethereum : 0xb5a42d6f61d2f9049d6cb6e0db262e686bd752ef
+* BulkHead Token : 0xb5a42d6f61d2f9049d6cb6e0db262e686bd752ef
 * PigyCoin :
