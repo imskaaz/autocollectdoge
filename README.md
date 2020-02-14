@@ -93,45 +93,46 @@ $ Put Telegram Verification code
 Finish.
 ```
 
-### Break down into end to end tests
+### Windows terminal (CMD) Run
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+On Progress
 
 ```
-Give an example
+I will try to make it suported on Windows
 ```
 
-## Deployment
+### Linux Ubuntu terminal
 
-Add additional notes about how to deploy this on a live system
+On Progress
+
+```
+I will try to make it supported on Linux Ubuntu
+```
+
+## Contributors
+
+* [ImSkaa](https://github.com/imskaaz) - Github
+
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Github](https://github.com/) - Repository Management
+* [Notepad++](https://rometools.github.io/rome/) - Used to writing the script
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/imskaa/autocollectdoge/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **IMSKAA** - *Developers* - [IMSKAAZ](https://github.com/imskaaz)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/imskaaz/autocollectdoge/contributors) who participated in this project.
 
 ## License
 
@@ -139,6 +140,16 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
+* Im not sure this was safe from banned on the bot
+* Inspirated when i build a cryptocurrency
 * etc
+
+## Donation
+* [Paypal](https://paypal.me/brezecode) - Donate me using paypal
+* [Google Ads](https://brezehost.com) - Feel free to donating without any cost by click a ads on my website
+* DogeCoin : 
+* BitCoin :
+* LiteCoin :
+* Ethereum :
+* BulkHead Token :
+* PigyCoin :
