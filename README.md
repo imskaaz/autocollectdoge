@@ -68,6 +68,27 @@ $ pkg install python git unzip
 ```
 $ git clone https://github.com/imskaaz/autocollectdoge
 ```
+```
+$ cd autocollect doge
+```
+```
+$ unzip dogebot.zip
+```
+```
+$ cd dogebot
+```
+```
+$ pip install -r 
+```
+```
+$ python main.py +(country code)(phone number) eg. $ python main.py +6285967134789
+```
+```
+$ Put Telegram Verification code
+```
+```
+Finish.
+```
 
 ### Break down into end to end tests
 
