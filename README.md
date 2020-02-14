@@ -145,7 +145,7 @@ See also the list of [contributors](https://github.com/imskaaz/autocollectdoge/c
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](https://github.com/imskaaz/autocollectdoge/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
