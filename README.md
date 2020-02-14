@@ -125,7 +125,7 @@ I will try to make it supported on Linux Ubuntu
 
 * [Python](https://www.python.org/) - The web framework used
 * [Github](https://github.com/) - Repository Management
-* [Notepad++](https://rometohttps://notepad-plus-plus.org/downloads/ols.github.io/rome/) - Used to writing the script
+* [Notepad++](https://notepad-plus-plus.org/downloads/) - Used to writing the script
 
 ## Contributing
 
