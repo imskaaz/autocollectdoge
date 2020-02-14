@@ -25,20 +25,46 @@ Internet Connection
 Install Termux apps on your Android using Google Play Store
 
 ```
-https://
-```
-
-And repeat
+https://play.google.com/store/apps/details?id=com.termux
 
 ```
-until finished
 ```
+Run your Termux
+```
+```
+Close your Termux
+```
+```
+Open your Phone Setting
+```
+```
+Click on Apps
+```
+```
+Click on Termux
+```
+```
+Click on app permission
+```
+```
+Click Allow Phone Storage Access
+```
+
+
 
 Finish
 
-## Running the tests
+## Install the script
 
-Explain how to run the automated tests for this system
+```
+Open your Termux app
+```
+```
+Write apt update && upgrade
+```
+```
+Write apt install python
+```
 
 ### Break down into end to end tests
 
