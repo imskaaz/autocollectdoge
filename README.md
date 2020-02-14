@@ -84,7 +84,7 @@ $ pip install --upgrade pip
 $ pip install -r requirements.txt
 ```
 ```
-$ python main.py +(country code)(phone number) eg. $ python main.py +6285967134789
+$ python start.py +(country code)(phone number) eg. $ python start.py +6285967134789
 ```
 ```
 $ Put Telegram Verification code
