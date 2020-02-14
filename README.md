@@ -156,8 +156,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Donation
 * [Paypal](https://paypal.me/brezecode) - Donate me using paypal
 * [Google Ads](https://brezehost.com) - Feel free to donating without any cost by click a ads on my website
-* DogeCoin : 
-* BitCoin :
+* DogeCoin : DMp7YAqjBQTV24cVop2NNwsgwR1fHjN9V6
+* BitCoin : 1NfSksGzyEq2bi1hrsKNcxxSPtJp6H6LNR
 * LiteCoin :
 * Ethereum :
 * BulkHead Token :
