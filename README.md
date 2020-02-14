@@ -78,7 +78,10 @@ $ unzip dogebot.zip
 $ cd dogebot
 ```
 ```
-$ pip install -r 
+$ pip install --upgrade pip
+```
+```
+$ pip install -r requirements.txt
 ```
 ```
 $ python main.py +(country code)(phone number) eg. $ python main.py +6285967134789
