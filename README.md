@@ -60,7 +60,7 @@ Finish
 ## Install the script
 
 ```
-Join the telegram bot : 
+Join the telegram bot : [Join](https://bit.ly/2USYQKK) - Your'e using my referral link, i got 2% you got 130%
 ```
 --------------
 ```
