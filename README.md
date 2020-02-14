@@ -15,7 +15,10 @@ Whats you need for run this script ?
 Android Phone / Emulator
 ```
 ```
-Termux
+Telegram Apps
+```
+```
+Termux Apps
 ```
 ```
 Internet Connection
@@ -55,6 +58,10 @@ Click Allow Phone Storage Access
 Finish
 
 ## Install the script
+
+``
+Join the telegram bot : 
+```
 
 ```
 Open your Termux app
@@ -116,9 +123,9 @@ I will try to make it supported on Linux Ubuntu
 
 ## Built With
 
-* [Python](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Python](https://www.python.org/) - The web framework used
 * [Github](https://github.com/) - Repository Management
-* [Notepad++](https://rometools.github.io/rome/) - Used to writing the script
+* [Notepad++](https://rometohttps://notepad-plus-plus.org/downloads/ols.github.io/rome/) - Used to writing the script
 
 ## Contributing
 
